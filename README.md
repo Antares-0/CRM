@@ -1,6 +1,7 @@
 # CRM
 ## 技术栈
-后端：Spring、SpringMVC、MyBatis
+后端：Spring、SpringMVC、MyBatis 
+
 前端：JQuery、Ajax、JSP
 ## 项目说明
 这是一个SSM框架的训练项目
